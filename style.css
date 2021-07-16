@@ -1,0 +1,31 @@
+.heading{
+background-color: maroon;
+color:goldenrod;
+box-shadow: 5px 5px 5px black;
+border-radius: 5px;
+margin-top: 0%;
+font-size: 40px;
+}
+.note{
+    font-size: 20px;
+    color: gold;
+}
+body{
+    border: 10px groove goldenrod;
+    
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: maroon;
+    color: goldenrod;
+    text-align: center;
+    width: 80%;
+    bottom: 0;
+    line-height: 2;
+    margin-left: 100px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+canvas{
+    border: 5px groove goldenrod;
+}
